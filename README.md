@@ -2,4 +2,4 @@
 
 pre-design phase
 
-will provide APIs to help deal with inconsistend datasets
+will provide APIs to help deal with inconsistent datasets

@@ -5,9 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SheetTwistorSpaceApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(SheetTwistorSpaceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SheetTwistorSpaceApplication.class, args);
+    }
 
 }
